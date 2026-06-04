@@ -1,0 +1,2 @@
+# Student-Performance-Assessment-by-Emotion-using-Deep-Learning-Techniques
+My project, Student Performance Assessment by Emotion using Deep Learning Techniques, used a CNN-based emotion recognition model to analyze student facial emotions while solving coding problems. Emotions were classified into seven categories and fed into a KNN classifier to predict task completion. The model achieved 86% accuracy.
